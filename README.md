@@ -6,9 +6,9 @@ SimTensor software has been developed at the Laboratory of Artificial Intelligen
 
 How to run
 ----------
-1. Download Tensor toolbox: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
-2. Extract tensor_toolbox_2.6.zip into root directory
-3. Run UI.m to start SimTensor
+1. Download [Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/)
+2. Extract `tensor_toolbox_2.6.zip` into root directory
+3. Run `UI.m` to start SimTensor
 
 How to cite
 -----------
