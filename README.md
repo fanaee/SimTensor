@@ -6,9 +6,9 @@ SimTensor software has been developed at the Laboratory of Artificial Intelligen
 
 How to run
 ----------
-1) Download Tensor toolbox: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
-2) Extract tensor_toolbox_2.6.zip into root directory
-3) Run UI.m to start SimTensor
+1. Download Tensor toolbox: http://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
+2. Extract tensor_toolbox_2.6.zip into root directory
+3. Run UI.m to start SimTensor
 
 How to cite
 -----------
@@ -28,7 +28,7 @@ Fanaee-T, H., & Gama, J. (2016). SimTensor: A synthetic tensor data generator. a
 
 Compile note
 ------------
-If you want to compile to binary do not forget to add *.txt files inside the GUIt directory
+If you want to compile to binary do not forget to add `*.txt` files inside of the `GUIt/` directory
 
 
 Team
@@ -42,4 +42,4 @@ Credit: Andrzej Cichocki, Anh-Huy Phan, Arun Tejasvi Chaganty, Brett W. Bader, C
 Feedback and bug report
 -----------------------
 Feedbacks are very welcome. Thank you!
-email: support@simtensor.org
+email: [support@simtensor.org](mailto: support@simtensor.org)
