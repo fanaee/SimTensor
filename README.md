@@ -20,12 +20,14 @@ If you used the SimTensor in your work in any way, please cite the following pap
 
 Fanaee-T, H., & Gama, J. (2016). SimTensor: A synthetic tensor data generator. arXiv preprint arXiv:1406.3496.  
 
+```
 @article{fanaee2016simtensor,  
 	title={ SimTensor: A synthetic tensor data generator},  
 	author={Fanaee-T, Hadi and Gama, Joao},  
 	journal={arXiv preprint arXiv:1612.03772},  
 	year={2016}  
-}  
+}
+```
 ------------------------------  
 Compile note  
 ------------------------------  
