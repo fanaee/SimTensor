@@ -44,4 +44,4 @@ Credit: Andrzej Cichocki, Anh-Huy Phan, Arun Tejasvi Chaganty, Brett W. Bader, C
 Feedback and bug report   
 -----------------------------  
 Feedbacks are very welcome. Thank you!  
-email: support@simtensor.org  
+email: info@simtensor.eu.org  
